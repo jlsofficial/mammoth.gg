@@ -1,4 +1,5 @@
 # mammoth.gg
-Join us on Discord: https://discord.gg/wTt97F74 
 Mammoth is a FOSS social media platform that offers an alternative experience for Reddit/Twitter users who are seeking a less restrictive platform to post a variety of content, such as video, images, and text prompts. Text prompts are limited to 2,500 characters, image and video sizes are limited to 512 MB for non pro members while pro members are allowed to post content that has file sizes up to 10 GB. Unlike Twitter, Mammoth Premium members must provide identifiable information to receive a Mammoth Print, a verification emblem that determines if an account is legitimate. Herds, similar subreddits allow groups of like-minded individuals to discuss topics of interest across a variety of disciplines, including academia, politics, governance, entertainment, culture, etc. Mammoth is designed to be a platform that allows uncensored expression for the users that use the platform without the issues that plague Twitter and Reddit, such as nonsensical moderation practices and poor platform reputations.
 Mammoth Premium Cost: 12$ US per month
+
+Join us on Discord: https://discord.gg/wTt97F74 
